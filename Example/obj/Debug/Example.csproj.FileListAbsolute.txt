@@ -1,5 +1,0 @@
-C:\Users\jsogard\documents\visual studio 2015\Projects\UnitTestProject1\Example\bin\Debug\Example.dll
-C:\Users\jsogard\documents\visual studio 2015\Projects\UnitTestProject1\Example\bin\Debug\Example.pdb
-C:\Users\jsogard\documents\visual studio 2015\Projects\UnitTestProject1\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
-C:\Users\jsogard\documents\visual studio 2015\Projects\UnitTestProject1\Example\obj\Debug\Example.dll
-C:\Users\jsogard\documents\visual studio 2015\Projects\UnitTestProject1\Example\obj\Debug\Example.pdb
