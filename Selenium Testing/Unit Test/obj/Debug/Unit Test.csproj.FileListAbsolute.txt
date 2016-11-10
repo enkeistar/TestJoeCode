@@ -1,0 +1,17 @@
+c:\users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\obj\Debug\Unit Test.csprojResolveAssemblyReference.cache
+c:\users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\bin\Debug\Default.srprofile
+c:\users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\bin\Debug\Unit Test.dll.config
+c:\users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\bin\Debug\Unit Test.dll
+c:\users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\bin\Debug\Unit Test.pdb
+c:\users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\bin\Debug\SpecRun.SpecFlowPlugin.dll
+c:\users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\bin\Debug\TechTalk.SpecRun.dll
+c:\users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\bin\Debug\WebDriver.dll
+c:\users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\bin\Debug\WebDriver.Support.dll
+c:\users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\bin\Debug\WebDriver.xml
+c:\users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\bin\Debug\WebDriver.Support.xml
+c:\users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\obj\Debug\Unit Test.dll
+c:\users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\obj\Debug\Unit Test.pdb
+C:\Users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\bin\Debug\TestPage.dll
+C:\Users\jsogard\documents\visual studio 2015\Projects\Selenium Testing\Unit Test\bin\Debug\TestPage.pdb
